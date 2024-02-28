@@ -1,0 +1,26 @@
+// Learning Git Version Control
+
+// Git is a distributed version control system that allows multiple developers to collaborate on a project. It tracks changes to files and allows you to easily manage different versions of your code.
+
+// Here are some key concepts and commands to get started with Git:
+
+// 1. Initializing a Git repository:
+//    - Use the command "git init" to initialize a new Git repository in your project directory.
+
+// 2. Adding files to the repository:
+//    - Use the command "git add <file>" to add a file to the staging area. This prepares the file to be committed.
+
+// 3. Committing changes:
+//    - Use the command "git commit -m 'commit message'" to commit the changes in the staging area. This creates a new version of your code.
+
+// 4. Checking the status of the repository:
+//    - Use the command "git status" to see the current status of your repository. It shows which files are modified, added, or deleted.
+
+// 5. Viewing commit history:
+//    - Use the command "git log" to view the commit history of your repository. It shows the author, date, and commit message for each commit.
+
+// These are just a few basic commands to get started with Git. There are many more advanced features and workflows that you can explore.
+
+// Happy learning!
+
+learning git using diff command
